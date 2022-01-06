@@ -1,0 +1,221 @@
+/*...............part 1 start...........*/
+#part_1{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 70px;
+}
+
+#part_1 .content{
+    width: 50%;
+    margin-top: 100px;
+    font-family: 'Open Sans', sans-serif;
+    margin-right: 80px;
+}
+#part_1 .content .heading h1{
+    font-size: 50px;
+    font-weight: 800px;
+    line-height: 70%;
+    padding-left: 15px;
+}
+#part_1 .content .heading{
+    border-left: 5px solid rebeccapurple;
+}
+#part_1 .content .heading .color{
+    color: steelblue;
+}
+#part_1 .content p{
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+#part_1 .content a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(157, 85, 224);
+    font-size: 20px;
+    padding: 10px 25px;
+}
+#part_1 .content .instruction{
+    margin-top: 40px;
+}
+
+#part_1 .image{
+    width: 50%;
+    margin-top: 70px;
+    
+}
+#part_1 .image img{
+    width: 70%;
+    
+}
+/*...............part 1 end...........*/
+
+/*...............part2 start...........*/
+#part_2{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 70px;
+    font-family: 'Open Sans', sans-serif;
+}
+#part_2 h1{
+    text-align: center;
+    
+    font-size: 40px;
+    font-weight: 900px;
+    color: darkcyan;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+#part_2 span{
+    color: rebeccapurple;
+}
+#part_2 .content{
+    display: flex;
+}
+#part_2 .content .mission{
+    width: 30%;
+    background-color: rgb(231, 231, 124);
+    padding: 30px 20px;
+}
+#part_2 .content .vission{
+    width: 30%;
+    background-color: lightslategray;
+    padding: 30px 20px;
+    margin-left: 30px ;
+}
+#part_2 .content .goal{
+    width: 30%;
+    background-color: lightpink;
+    padding: 30px 20px;
+    margin-left: 30px ;
+}
+#part_2 .content img{
+    width: 50%;
+}
+#part_2 .content h2{
+    font-size: 25px;
+    font-weight: 600px;
+}
+#part_2 .content p{
+    font-size: 17px;
+    font-weight: 500px;
+}
+/*...............part2 end..............*/
+
+/*...............part-3 start...........*/
+#part_3{
+    margin: 100px 100px;
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
+}
+#part_3 img{
+    width: 60%;
+}
+#part_3 .content{
+    margin-left: -100px;
+}
+#part_3 h2{
+    font-size: 40px;
+    font-weight: 600px;
+    color: rgb(14, 102, 102);    
+}
+#part_3 p{
+    font-size: 17px;
+    font-weight: 500px;
+    margin-bottom: 30px;
+}
+#part_3 a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(157, 85, 224);
+    font-size: 20px;
+    padding: 10px 25px;
+}
+/*...............part-3 end...........*/
+
+/*...............part-4 start...........*/
+#part_4{
+    margin: 100px 100px;
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#part_4 h2{
+    font-size: 40px;
+    font-weight: 600px;
+    color: rgb(14, 102, 102);    
+}
+#part_4 p{
+    font-size: 17px;
+    font-weight: 500px;
+    margin-bottom: 30px;
+}
+#part_4 a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(157, 85, 224);
+    font-size: 20px;
+    padding: 10px 25px;
+}
+#part_4 img{
+    width: 60%;
+    margin-left: 100px;
+}
+/*...............part-4 end...........*/
+
+/*...............part-5 start...........*/
+#part_5{
+    margin: 100px 100px;
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
+}
+#part_5 img{
+    width: 120%;
+    box-shadow: 10px 10px #cecacacb;
+}
+#part_5 .content{
+    margin-left: 150px;
+}
+#part_5 h2{
+    font-size: 40px;
+    font-weight: 600px;   
+}
+#part_5 h2 span{
+    color: rgb(14, 102, 102); 
+}
+#part_5 p{
+    font-size: 17px;
+    font-weight: 500px;
+    margin-bottom: 30px;
+}
+#part_5 a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(157, 85, 224);
+    font-size: 20px;
+    padding: 10px 25px;
+}
+/*...............part-5 end...........*/
+
+/*...............footer part start...........*/
+footer{
+    text-align: center;
+    background-color: rgb(13, 22, 22);
+    color: white;
+    padding: 50px 0;
+    margin-top: 150px;
+}
+footer h2{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+footer span{
+    color: rgb(29, 223, 203);
+}
+footer p{
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+/*...............footer part end...........*/
