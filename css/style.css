@@ -34,6 +34,7 @@
     background-color: rgb(157, 85, 224);
     font-size: 20px;
     padding: 10px 25px;
+    border-radius: 10px;
 }
 #part_1 .content .instruction{
     margin-top: 40px;
@@ -76,18 +77,21 @@
     width: 30%;
     background-color: rgb(231, 231, 124);
     padding: 30px 20px;
+    border-radius: 15px;
 }
 #part_2 .content .vission{
     width: 30%;
     background-color: lightslategray;
     padding: 30px 20px;
     margin-left: 30px ;
+    border-radius: 15px;
 }
 #part_2 .content .goal{
     width: 30%;
     background-color: lightpink;
     padding: 30px 20px;
     margin-left: 30px ;
+    border-radius: 15px;
 }
 #part_2 .content img{
     width: 50%;
@@ -95,6 +99,7 @@
 #part_2 .content h2{
     font-size: 25px;
     font-weight: 600px;
+    color: rgb(2, 2, 36);
 }
 #part_2 .content p{
     font-size: 17px;
@@ -130,6 +135,7 @@
     background-color: rgb(157, 85, 224);
     font-size: 20px;
     padding: 10px 25px;
+    border-radius: 10px;
 }
 /*...............part-3 end...........*/
 
@@ -156,6 +162,7 @@
     background-color: rgb(157, 85, 224);
     font-size: 20px;
     padding: 10px 25px;
+    border-radius: 10px;
 }
 #part_4 img{
     width: 60%;
@@ -194,6 +201,7 @@
     background-color: rgb(157, 85, 224);
     font-size: 20px;
     padding: 10px 25px;
+    border-radius: 10px;
 }
 /*...............part-5 end...........*/
 
